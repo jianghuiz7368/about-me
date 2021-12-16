@@ -29,3 +29,10 @@ I like to play _basketball_ with my friends, I also like to play _video games_ w
 My **_favorite_** food is _pizza and chocolate_. I also like to _watch Youtube videos_ when Im bored and _take a walk at the park_. _Summer_ is my **_favorite_** season
 
 
+### Software Engineering (SEP)
+
+I am in the Software Engineering program and this year in **SEP10** we are learning _web design_. Here are the thing we've learned so far
+
+* HTML
+
+* CSS
