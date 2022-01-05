@@ -42,9 +42,14 @@ I am in the Software Engineering program and this year in **SEP10** we are learn
 
 
 * HTML
+    * elements
+    * and many more
 
 
 * CSS
+    * color
+    * animatuin and more
+
 
 
 [click to see my other github repo](https://github.com/jianghuiz7368?tab=repositories)
