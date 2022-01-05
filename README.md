@@ -48,7 +48,7 @@ I am in the Software Engineering program and this year in **SEP10** we are learn
 
 * CSS
     * color
-    * animatuin and more
+    * animation and more
 
 
 
